@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42142'
     url: http://www.gutenberg.org/2009/agents/42142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43331#The-Domestic-Life-of-Thomas-Jefferson-Compiled-From-Family-Letters-and-Reminiscences
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
